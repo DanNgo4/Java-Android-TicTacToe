@@ -1,4 +1,5 @@
-# CS50x 2024 Final Project - Tic Tac Toe Android App in Java
+# Tic Tac Toe Android App in Java
+## CS50x 2024 Final Project
 #### Video Demo: https://youtu.be/MrOThDt5CMA
 #### Description:
 This project is an Android-based Tic Tac Toe game application consisting of two main activities: MainActivity and GameActivity.
